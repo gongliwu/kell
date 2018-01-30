@@ -7,3 +7,6 @@ class mokill{
 	 	   echo '又修改了';
 	 }
 }
+
+ 
+
